@@ -1,0 +1,6 @@
+data/
+*.joblib
+*.tif
+dataset_*.csv
+__pycache__/
+.venv/

@@ -1,0 +1,7 @@
+numpy
+pandas
+geopandas>=1.0
+rasterio>=1.4
+scikit-learn
+matplotlib
+joblib
